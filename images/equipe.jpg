@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a9d8f"/>
+      <stop offset="100%" stop-color="#1d3557"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="400" cy="350" r="90" fill="#e9c46a" opacity="0.8"/>
+  <circle cx="600" cy="300" r="110" fill="#f4a261" opacity="0.8"/>
+  <circle cx="800" cy="360" r="95" fill="#e76f51" opacity="0.8"/>
+  <path d="M 280 600 Q 400 480 520 600" stroke="#ffffff" stroke-width="8" fill="none" opacity="0.7"/>
+  <path d="M 460 620 Q 600 460 740 620" stroke="#ffffff" stroke-width="8" fill="none" opacity="0.7"/>
+  <path d="M 670 610 Q 800 490 930 610" stroke="#ffffff" stroke-width="8" fill="none" opacity="0.7"/>
+  <text x="600" y="700" font-family="sans-serif" font-size="32" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.9">Équipe AINGA sur le terrain</text>
+</svg>

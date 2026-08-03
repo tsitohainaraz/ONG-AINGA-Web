@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600">
+  <rect width="1000" height="600" fill="#264653"/>
+  <polygon points="500,100 800,450 200,450" fill="#e9c46a" opacity="0.8"/>
+  <circle cx="500" cy="300" r="80" fill="#2a9d8f"/>
+  <text x="500" y="530" font-family="sans-serif" font-size="28" fill="#ffffff" text-anchor="middle" font-weight="600">Actions sur le terrain</text>
+</svg>

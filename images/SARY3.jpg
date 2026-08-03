@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2C7A76"/>
+      <stop offset="100%" stop-color="#12241A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="650" fill="url(#bg3)"/>
+  <polygon points="500,150 750,450 250,450" fill="#F4D068" opacity="0.3"/>
+  <circle cx="500" cy="320" r="70" fill="#F3ECDC" opacity="0.9"/>
+  <text x="500" y="580" font-family="'Nunito Sans', sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">Équipe AINGA — SARY 3</text>
+</svg>
